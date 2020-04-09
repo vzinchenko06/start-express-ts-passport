@@ -1,0 +1,8 @@
+/node_modules/**
+/dist/**
+/public/**
+/.pnp/**
+/coverage/**
+/tests/**
+/out/**
+/build/**
